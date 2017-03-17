@@ -1,2 +1,2 @@
 # app-ladygaga
-Projeto teste de inclusao ao git
+Projeto primeiro do git
